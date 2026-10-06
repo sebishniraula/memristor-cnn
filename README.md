@@ -26,11 +26,27 @@ $$
 
 Flatten one grayscale $2\times2$ patch into four inputs. With two filters, the calculation becomes $\mathbf y=W\mathbf x$ before bias and activation:
 
-$$
-\underbrace{\begin{bmatrix}1&1&0.5&0.5\\0.5&0.5&1&1\end{bmatrix}}_{W}
-\underbrace{\begin{bmatrix}1\\0.5\\0.5\\0.5\end{bmatrix}}_{\mathbf x}
-=\begin{bmatrix}2\\1.75\end{bmatrix}.
-$$
+```math
+\underbrace{
+\begin{bmatrix}
+1 & 1 & 0.5 & 0.5 \\
+0.5 & 0.5 & 1 & 1
+\end{bmatrix}
+}_{W}
+\underbrace{
+\begin{bmatrix}
+1 \\
+0.5 \\
+0.5 \\
+0.5
+\end{bmatrix}
+}_{\mathbf{x}}
+=
+\begin{bmatrix}
+2 \\
+1.75
+\end{bmatrix}.
+```
 
 Repeating this for successive patches builds two feature maps. Bias, activation, pooling, and classification are planned software operations initially. The present circuit implements the weighted sums, not a complete CNN.
 
