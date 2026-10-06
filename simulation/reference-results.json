@@ -1,0 +1,172 @@
+[
+  {
+    "selected_cell": null,
+    "command_V": 1.25,
+    "OUT_A_V": -0.0666180831508,
+    "OUT_B_V": -0.058295157614,
+    "ADC_A_V": 1.858345105878,
+    "ADC_B_V": 1.860425837054,
+    "ADC_BASE_V": 1.874999625,
+    "PROG_LIMITED_V": 2.495944381418e-07
+  },
+  {
+    "selected_cell": 1,
+    "command_V": 0.25,
+    "OUT_A_V": 0.327600170284,
+    "OUT_B_V": 0.0,
+    "ADC_A_V": 1.956899659395,
+    "ADC_B_V": 1.874999625,
+    "ADC_BASE_V": 1.874999625,
+    "PROG_LIMITED_V": -1.96723931761
+  },
+  {
+    "selected_cell": 1,
+    "command_V": 2.25,
+    "OUT_A_V": -0.327600251746,
+    "OUT_B_V": 0.0,
+    "ADC_A_V": 1.793099570242,
+    "ADC_B_V": 1.874999625,
+    "ADC_BASE_V": 1.874999625,
+    "PROG_LIMITED_V": 1.967239806786
+  },
+  {
+    "selected_cell": 2,
+    "command_V": 0.25,
+    "OUT_A_V": 0.327600170284,
+    "OUT_B_V": 0.0,
+    "ADC_A_V": 1.956899659395,
+    "ADC_B_V": 1.874999625,
+    "ADC_BASE_V": 1.874999625,
+    "PROG_LIMITED_V": -1.96723931761
+  },
+  {
+    "selected_cell": 2,
+    "command_V": 2.25,
+    "OUT_A_V": -0.327600251746,
+    "OUT_B_V": 0.0,
+    "ADC_A_V": 1.793099570242,
+    "ADC_B_V": 1.874999625,
+    "ADC_BASE_V": 1.874999625,
+    "PROG_LIMITED_V": 1.967239806786
+  },
+  {
+    "selected_cell": 3,
+    "command_V": 0.25,
+    "OUT_A_V": 0.1652209152269,
+    "OUT_B_V": 0.0,
+    "ADC_A_V": 1.916304849682,
+    "ADC_B_V": 1.874999625,
+    "ADC_BASE_V": 1.874999625,
+    "PROG_LIMITED_V": -1.98347738477
+  },
+  {
+    "selected_cell": 3,
+    "command_V": 2.25,
+    "OUT_A_V": -0.165220956311,
+    "OUT_B_V": 0.0,
+    "ADC_A_V": 1.833694390037,
+    "ADC_B_V": 1.874999625,
+    "ADC_BASE_V": 1.874999625,
+    "PROG_LIMITED_V": 1.983477877986
+  },
+  {
+    "selected_cell": 4,
+    "command_V": 0.25,
+    "OUT_A_V": 0.1652209152269,
+    "OUT_B_V": 0.0,
+    "ADC_A_V": 1.916304849682,
+    "ADC_B_V": 1.874999625,
+    "ADC_BASE_V": 1.874999625,
+    "PROG_LIMITED_V": -1.98347738477
+  },
+  {
+    "selected_cell": 4,
+    "command_V": 2.25,
+    "OUT_A_V": -0.165220956311,
+    "OUT_B_V": 0.0,
+    "ADC_A_V": 1.833694390037,
+    "ADC_B_V": 1.874999625,
+    "ADC_BASE_V": 1.874999625,
+    "PROG_LIMITED_V": 1.983477877986
+  },
+  {
+    "selected_cell": 5,
+    "command_V": 0.25,
+    "OUT_A_V": 0.0,
+    "OUT_B_V": 0.1652209152269,
+    "ADC_A_V": 1.874999625,
+    "ADC_B_V": 1.916304849682,
+    "ADC_BASE_V": 1.874999625,
+    "PROG_LIMITED_V": -1.98347738477
+  },
+  {
+    "selected_cell": 5,
+    "command_V": 2.25,
+    "OUT_A_V": 0.0,
+    "OUT_B_V": -0.165220956311,
+    "ADC_A_V": 1.874999625,
+    "ADC_B_V": 1.833694390037,
+    "ADC_BASE_V": 1.874999625,
+    "PROG_LIMITED_V": 1.983477877986
+  },
+  {
+    "selected_cell": 8,
+    "command_V": 0.25,
+    "OUT_A_V": 0.0,
+    "OUT_B_V": 0.1652209152269,
+    "ADC_A_V": 1.874999625,
+    "ADC_B_V": 1.916304849682,
+    "ADC_BASE_V": 1.874999625,
+    "PROG_LIMITED_V": -1.98347738477
+  },
+  {
+    "selected_cell": 8,
+    "command_V": 2.25,
+    "OUT_A_V": 0.0,
+    "OUT_B_V": -0.165220956311,
+    "ADC_A_V": 1.874999625,
+    "ADC_B_V": 1.833694390037,
+    "ADC_BASE_V": 1.874999625,
+    "PROG_LIMITED_V": 1.983477877986
+  },
+  {
+    "selected_cell": 7,
+    "command_V": 0.25,
+    "OUT_A_V": 0.0,
+    "OUT_B_V": 0.327600170284,
+    "ADC_A_V": 1.874999625,
+    "ADC_B_V": 1.956899659395,
+    "ADC_BASE_V": 1.874999625,
+    "PROG_LIMITED_V": -1.96723931761
+  },
+  {
+    "selected_cell": 7,
+    "command_V": 2.25,
+    "OUT_A_V": 0.0,
+    "OUT_B_V": -0.327600251746,
+    "ADC_A_V": 1.874999625,
+    "ADC_B_V": 1.793099570242,
+    "ADC_BASE_V": 1.874999625,
+    "PROG_LIMITED_V": 1.967239806786
+  },
+  {
+    "selected_cell": 6,
+    "command_V": 0.25,
+    "OUT_A_V": 0.0,
+    "OUT_B_V": 0.327600170284,
+    "ADC_A_V": 1.874999625,
+    "ADC_B_V": 1.956899659395,
+    "ADC_BASE_V": 1.874999625,
+    "PROG_LIMITED_V": -1.96723931761
+  },
+  {
+    "selected_cell": 6,
+    "command_V": 2.25,
+    "OUT_A_V": 0.0,
+    "OUT_B_V": -0.327600251746,
+    "ADC_A_V": 1.874999625,
+    "ADC_B_V": 1.793099570242,
+    "ADC_BASE_V": 1.874999625,
+    "PROG_LIMITED_V": 1.967239806786
+  }
+]
